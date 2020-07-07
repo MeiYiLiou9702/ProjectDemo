@@ -9,3 +9,9 @@
 * [活動通地圖](http://homepage.ntu.edu.tw/~b04208036/webgis/)</br>作者：劉玫宜、陳冠甫、林承恩</br>內容與發想：劉玫宜、陳冠甫、林承恩 </br>資料處理：林承恩</br>網頁視覺設計：劉玫宜 </br>JavaScript 程式碼：陳冠甫、劉玫宜 </br> 資料來源：[行政院文化部開放資料](https://opendata.culture.tw/) </br>網頁框架原始碼：[Bootstrap CSS&JS](https://getbootstrap.com/)
 
 * [個人介紹](https://meiyiliou9702.github.io/) </br>作者：劉玫宜</br>網頁設計：劉玫宜
+
+# Python AI 專案─音樂曲風辨識
+2019年選修由政大應數系蔡炎龍老師在台大開設的「Python機器學習與深度學習入門」期末報告作品。
+* 作者：劉玫宜、曹宇鈞、林子鈞
+* [作品連結](https://github.com/MeiYiLiou9702/ProjectDemo/tree/master/AI%E9%9F%B3%E6%A8%82%E6%9B%B2%E9%A2%A8%E8%BE%A8%E8%AD%98)
+* [成果展示](https://colab.research.google.com/drive/1jN17Ueagsq-WVV6i0j5XNPtT9sV-dMCP?usp=sharing)(可線上試用)
