@@ -15,7 +15,7 @@
 2019年選修由政大應數系蔡炎龍老師在台大開設的「Python機器學習與深度學習入門」期末報告作品。
 * 作者：劉玫宜、曹宇鈞、林子鈞
 * [作品連結](https://github.com/MeiYiLiou9702/ProjectDemo/tree/master/AI%E9%9F%B3%E6%A8%82%E6%9B%B2%E9%A2%A8%E8%BE%A8%E8%AD%98)
-* [成果展示](https://colab.research.google.com/drive/1jN17Ueagsq-WVV6i0j5XNPtT9sV-dMCP?usp=sharing)(可線上試用)
+* [成果展示](https://colab.research.google.com/drive/1jN17Ueagsq-WVV6i0j5XNPtT9sV-dMCP?usp=sharing) (可線上試用)
 
 # 遙測學及實習期末報告
 於107年3月～6月期間，修習由台大地理系黃倬英老師開設的地理系必修課程「遙測學及實習」。期末報告本組選定「松山區基隆河沿岸（錫口）」、「機場捷運新北市沿線路段」與「信義計畫區」作為期末研究目標，以1995年與2015年的遙測影像進行土地利用變遷的比較。 (內文每章第一個名字為該文章作者)
